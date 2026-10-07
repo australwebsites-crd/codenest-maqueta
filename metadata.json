@@ -1,0 +1,6 @@
+{
+  "name": "CodeNest - High-End Coding Education",
+  "description": "Launch your coding career with CodeNest. High-end coding curriculum taught by industry professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
